@@ -1,2 +1,2 @@
-# SFS-Academy-SolidWorks-
+# SFS-Academy-SolidWorks
 Projects done during the course 
